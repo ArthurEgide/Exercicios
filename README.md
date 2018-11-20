@@ -1,5 +1,7 @@
-# Exercicios
-Este repositório tem como intenção guardar os problemas e exercícios aos quais me deparei em minha vida acadêmica a partir da criação dele, o que infelizmente me fez perder muitos outros, seguidos da resolução.
+# Exercises
+
+This repository is intended to guard the problems and exercises that I encountered in my academic life from the time of its creation, which unfortunately caused me to lose many others, followed by resolution.
+
 
 # Brief Summary
 - [I/O , Math]
