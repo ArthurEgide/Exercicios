@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>Make a program that reads from the default entry the name of a text file, chosen by the user, containing a floating point number per line. Without keeping the contents of the file in main memory, just read the file once and write in the standard output the smallest number read, the average of the numbers read and the largest number read. If the file is empty, write None as the smallest mean and the largest.</para>
+  <para/>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>In</para></entry><entry><para>Ex1.txt</para></entry><entry><para>Out</para><para/></entry></row><row><entry><para/></entry><entry><para/></entry><entry><para/></entry></row><row><entry><para>Ex1.txt</para></entry><entry><para>*Empty file*</para></entry><entry><para>Lower Value= None </para><para>Avg. Value = None</para><para>Bigger Value = None</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para/>
+  <para/>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>In</para></entry><entry><para>Ex2.txt</para></entry><entry><para>Out</para><para/></entry></row><row><entry><para/></entry><entry><para/></entry><entry><para/></entry></row><row><entry><para>Ex2.txt</para></entry><entry><para>1</para><para>2</para><para>3</para><para>4.444 </para><para>-2.222 </para><para>13.13 </para><para>80.77 </para><para>5 </para><para>7 </para><para>12</para></entry><entry><para>Lower Value= -2.222 </para><para>Avg. Value = 12.6122</para><para>Bigger Value = None</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para/>
+  <para/>
+</article>
