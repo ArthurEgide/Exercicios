@@ -1,0 +1,37 @@
+Make a program that reads text file, chosen by the user, containing two numbers of
+floating point per line, representing x and y coordinates of points in the two-dimensional space.
+Suppose all files processed by this program always have at least
+a dot. Without copying the contents of the file to the main memory, write
+two points farther apart, and how far apart they are.
+Definition
+The distance between two points (x1, y1) and (x2, y2) is given by the square root of the square of
+difference between the x's and y's. That is, the square of (x1-x2) added to the square of (y1-y2).
+
+╔═════════╦═════════╦═════════════════════════════╗
+║ In      ║ Ex1.txt ║ Out                         ║
+╠═════════╬═════════╬═════════════════════════════╣
+║ Ex1.txt ║ 1 2     ║ Initial Point = (1.0, 2.0)  ║
+║         ║         ║ Final Point = (1.0, 2.0)    ║
+║         ║         ║ Distance between them = 0.0 ║
+╚═════════╩═════════╩═════════════════════════════╝
+
+╔═════════╦═════════╦════════════════════════════════════════════╗
+║ In      ║ Ex1.txt ║ Out                                        ║
+╠═════════╬═════════╬════════════════════════════════════════════╣
+║ Ex2.txt ║ 1 2     ║ Initial Point = (1.0, 2.0)                 ║
+║         ║ 3 4     ║ Final Point = (3.0, 4.0)                   ║
+║         ║         ║ Distance between them = 2.8284271247461903 ║
+╚═════════╩═════════╩════════════════════════════════════════════╝ 
+
+╔═════════╦═════════════╦═══════════════════════════════════════════╗
+║ In      ║ Ex3.txt     ║ Out                                       ║
+╠═════════╬═════════════╬═══════════════════════════════════════════╣
+║ Ex3.txt ║ 3.22 44.1   ║ Initial Point = (100.0, 200.0)            ║
+║         ║ 100 200     ║ Final Point = (10.0, 1.0)                 ║
+║         ║ -37.22 80.4 ║ Distance between them = 218.4055860091495 ║
+║         ║ 1 10        ║                                           ║
+║         ║ 10 1        ║                                           ║
+║         ║ 13 26       ║                                           ║
+║         ║ 26 130.99   ║                                           ║
+║         ║ 65.2 65.1   ║                                           ║
+╚═════════╩═════════════╩═══════════════════════════════════════════╝
