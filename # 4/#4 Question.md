@@ -32,20 +32,9 @@ Seu programa deverá emitir um arquivo texto de nome “imposto.txt” com a men
 “O imposto cobrado é de R$<VALOR>”, onde <VALOR> deve ser substituído pelo valor total do
 imposto cobrado sobre o arquivo texto informado na entrada, com duas casas decimais.
 
-╔════════════╦═══════════════════════════════════════════╦════════════════╦════════════════════╗
-║ In         ║ letter.txt                                ║ ref.bin        ║ *Out               ║
-║            ║                                           ║                ║ bill.txt           ║
-╠════════════╬═══════════════════════════════════════════╬════════════════╬════════════════════╣
-║ letter.txt ║ Ola amigo,                                ║ Voce 0.05      ║ "O imposto cobrado ║
-║            ║ Quanto tempo! Tudo bem com voce?          ║ Dica 0.75      ║  é de R$4.51"      ║
-║            ║ Esses dias lembrei daquela vez que eu,    ║ Obrigado 0.30  ║                    ║
-║            ║ voce e Amanda estávamos                   ║ Tempo 1.40     ║                    ║
-║            ║ conversando sobre as ADs do CEDERJ.       ║ Tudo 0.01      ║                    ║
-║            ║ Voce nos falou para fazer todas as        ║ Abacaxi 0.89   ║                    ║
-║            ║ questoes de Fundamentos de Programacao    ║ EU 0.34        ║                    ║
-║            ║ e procurar os tutores em caso de          ║ As 0.01        ║                    ║
-║            ║ duvida.                                   ║ De 0.02        ║                    ║
-║            ║ A dica que voce deu foi muito boa.        ║ Novamente 1.34 ║                    ║
-║            ║  Obrigado!                                ║ Caso 0.21      ║                    ║
-║            ║ Um abraco, nos veremos novamente no Polo. ║                ║                    ║
-╚════════════╩═══════════════════════════════════════════╩════════════════╩════════════════════╝
+╔════════════╦════════════════╗
+║ in         ║ *out           ║
+╠════════════╬════════════════╣
+║ letter.txt ║ "Bill: R$ 4.51 ║
+╚════════════╩════════════════╝
+
