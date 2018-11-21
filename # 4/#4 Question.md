@@ -33,15 +33,22 @@ Seu programa deverá emitir um arquivo texto de nome “imposto.txt” com a men
 imposto cobrado sobre o arquivo texto informado na entrada, com duas casas decimais.
 
 ╔════════════╦════════════════╗
-║      in    ║      *out      ║
+║    in      ║   *outFileOut  ║
 ╠════════════╬════════════════╣
 ║ letter.txt ║ "Bill: R$ 4.51 ║
 ╚════════════╩════════════════╝
 
-╔═════════╦═════════╦═════════════════════════════╗
-║ In      ║ Ex1.txt ║ Out                         ║
-╠═════════╬═════════╬═════════════════════════════╣
-║ Ex1.txt ║ 1 2     ║ Initial Point = (1.0, 2.0)  ║
-║         ║         ║ Final Point = (1.0, 2.0)    ║
-║         ║         ║ Distance between them = 0.0 ║
-╚═════════╩═════════╩═════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════╦════════════════╗
+║ letter.txt                                                              ║   ref.bin      ║
+╠═════════════════════════════════════════════════════════════════════════╬════════════════╣
+║ Ola amigo,                                                              ║ Voce 0.05      ║
+║ Quanto tempo! Tudo bem com voce?                                        ║ Dica 0.75      ║
+║ Esses dias lembrei daquela vez que eu, voce e Amanda estávamos          ║ Obrigado 0.30  ║
+║ conversando sobre as ADs do CEDERJ.                                     ║ Tempo 1.40     ║
+║ Voce nos falou para fazer todas as                                      ║ Tudo 0.01      ║
+║ questoes de Fundamentos de Programacao e procurar os tutores em caso de ║ Abacaxi 0.89   ║
+║ duvida.                                                                 ║ EU 0.34        ║
+║ A dica que voce deu foi muito boa. Obrigado!                            ║ As 0.01        ║
+║ Um abraco, nos veremos novamente no Polo.                               ║ De 0.02        ║
+║                                                                         ║ Novamente 1.34 ║
+║                                                                         ║ Caso 0.21      ║ ╚═════════════════════════════════════════════════════════════════════════╩════════════════╝
