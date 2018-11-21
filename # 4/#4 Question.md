@@ -33,8 +33,13 @@ Seu programa deverá emitir um arquivo texto de nome “imposto.txt” com a men
 imposto cobrado sobre o arquivo texto informado na entrada, com duas casas decimais.
 
 ╔════════════╦════════════════╗
+
 ║ in         ║ *out           ║
+
 ╠════════════╬════════════════╣
+
 ║ letter.txt ║ "Bill: R$ 4.51 ║
+
 ╚════════════╩════════════════╝
+
 
