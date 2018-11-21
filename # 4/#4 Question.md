@@ -48,4 +48,4 @@ imposto cobrado sobre o arquivo texto informado na entrada, com duas casas decim
 ║            ║ A dica que voce deu foi muito boa.        ║ Novamente 1.34 ║                    ║
 ║            ║  Obrigado!                                ║ Caso 0.21      ║                    ║
 ║            ║ Um abraco, nos veremos novamente no Polo. ║                ║                    ║
-╚════════════╩═══════════════════════════════════════════╩════════════════╩════════════════════╝ffffefefefefeffefefefefeffefefef
+╚════════════╩═══════════════════════════════════════════╩════════════════╩════════════════════╝
