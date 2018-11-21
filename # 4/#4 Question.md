@@ -33,13 +33,15 @@ Seu programa deverá emitir um arquivo texto de nome “imposto.txt” com a men
 imposto cobrado sobre o arquivo texto informado na entrada, com duas casas decimais.
 
 ╔════════════╦════════════════╗
-
-║ in         ║ *out           ║
-
+║      in    ║      *out      ║
 ╠════════════╬════════════════╣
-
 ║ letter.txt ║ "Bill: R$ 4.51 ║
-
 ╚════════════╩════════════════╝
 
-
+╔═════════╦═════════╦═════════════════════════════╗
+║ In      ║ Ex1.txt ║ Out                         ║
+╠═════════╬═════════╬═════════════════════════════╣
+║ Ex1.txt ║ 1 2     ║ Initial Point = (1.0, 2.0)  ║
+║         ║         ║ Final Point = (1.0, 2.0)    ║
+║         ║         ║ Distance between them = 0.0 ║
+╚═════════╩═════════╩═════════════════════════════╝
