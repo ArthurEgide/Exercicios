@@ -1,4 +1,6 @@
-﻿#  Sub Programa
+﻿#	Tested on Python 3.7
+
+#  Sub Programa
 
 def analisar(seq):      #  Calcula a média e verifica o menor e maior valor
     menor = maior = seq[0]

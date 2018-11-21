@@ -1,3 +1,4 @@
+#	Tested on Python 3.7
 import math
 
 def coordenadas(arq):		#  Extrair as coordenadas do arquivo
